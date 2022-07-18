@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aristedacade
 - 👀 I’m interested in law, ingeneering and all kind of things
 - 🌱 I’m currently learning law and science
-- 💞️ I’m looking to collaborate on several type of projects
+- 💞️ I’m looking to collaborate on several types of projects
 - 📫 How to reach me ariste.dacade@gmail.com 
 
 <!---
